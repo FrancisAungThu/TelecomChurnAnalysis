@@ -5,6 +5,9 @@
 
 ## Table of Contents
 - [Project Background](#project-background)
+- [Data Understanding & Exploration](#data-understanding-&-exploration)
+
+
 
 
 
@@ -12,3 +15,7 @@
 ## Project Background
 
 brief description of the project, its purpose and goals.
+
+
+## Data Understanding & Exploration
+
