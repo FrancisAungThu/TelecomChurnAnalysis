@@ -17,7 +17,7 @@ In today's digital world, the subscription-based business model has become a dom
 The purpose of this churn‑analysis project is to:
 - 🔍 **Explore** usage patterns, complaints and demographic factors to identify variables that differentiate churners from non‑churners.
 - 💡 **Interpret feature importance** to discover which behaviours are most strongly associated with churn.
-- 📈 **Translate findings into business recommendations**. For example, identifying high‑risk segments could help the telecom operator design retention campaigns, while recognising high‑value but at‑risk customers might prioritise personal outreach.
+- 📈 **Translate findings into business recommendations**. For example, identifying high-risk segments can help the telecom operator design targeted retention campaigns, address key pain points such as the complaints system, and pinpoint customer groups with potential for upselling and cross-selling.
 
 ### Libraries Used
 numpy, pandas, matplotlib, seaborn
