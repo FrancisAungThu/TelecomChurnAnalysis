@@ -26,7 +26,8 @@ The purpose of this churn‑analysis project is to:
 ## Dataset Overview
 The dataset has demographic and usage information from customers of a telecom company. The dataset was obtained from [the UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset).
 
-![Dataset Overview](Assets/Dataset Overview.png)
+![Dataset Overview](./Assets/Dataset%20Overview.png)
+
 
 
 ## Data Understanding & Exploration
