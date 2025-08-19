@@ -83,7 +83,7 @@ This analysis reveals key drivers of customer churn in a telecom dataset. Compla
 - **Fix complaints system** → Review and reform to be a proactive resolution system. Log complaint reasons and implement corrective actions to prevent recurrence. Flag early-tenure users in the CRM for extra care and timely follow-up.
 - **Focus retention efforts in at-risk segments** → Strengthen the onboarding journey to drive higher engagement during the first 7 months—a critical window for churn prevention.
 - **Grow loyalty & lifetime value** → Encourage migration from pay-as-you-go to contract plans, and reward high-value, long-term customers to reinforce loyalty and increase profitability
-
+- **Increase revenue** → Tenure Group 2 represents a high-value segment—our cash cow. Prioritize upsell and cross-sell strategies to unlock additional growth and maximize customer lifetime value.
 
 
 
